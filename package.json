@@ -1,7 +1,7 @@
 {
   "name": "Seven Seas js",
   "version": "1.0.0",
-  "description": "",
+  "description": "API wrapper for https://evenseas.exchange",
   "main": "src/seven-seas.js",
   "type": "module",
   "scripts": {
@@ -16,5 +16,11 @@
   },
   "dependencies": {
     "dotenv": "^16.0.3"
-  }
+  },
+  "keywords": [
+    "api",
+    "seven seas",
+    "exchange",
+    "trading"
+  ]
 }
