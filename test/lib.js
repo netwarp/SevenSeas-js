@@ -32,7 +32,7 @@ test('fetch history of market', {skip: true}, async (t) => {
 
 test('fetch orders book of market', {skip: false}, async (t) => {
 
-    const history = await sevenSeas.ordersBook('xmr-btc');
+    const ordersBook = await sevenSeas.ordersBook('xmr-btc');
 
     assert.strictEqual(history.length > 4, history.length > 4)
 });

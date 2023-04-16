@@ -72,4 +72,4 @@ class SevenSeas {
     }
 }
 
-export default SevenSeas
+export default SevenSeas;
