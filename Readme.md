@@ -4,6 +4,8 @@ API wrapper for https://sevenseas.exchange
 
 ## Installation
 
+    npm i seven-seas-js
+
 ## Usage
 
     import SevenSeas from 'seven-seas-js'
