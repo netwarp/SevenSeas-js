@@ -22,3 +22,6 @@ API wrapper for https://sevenseas.exchange
 
     // get order boos
     const ordersBook = await sevenSeas.ordersBook('xmr-btc');
+
+    // get account balance by currency
+    const balance = await.fetchAccountBalance('btc')
